@@ -9,7 +9,7 @@ Get the [v68 preview release](https://github.com/Tweeksterr91/Turok-Rage-Wars-Re
 1. Download and extract **Reforged-Core-v68.zip** into a new writable folder.
 2. Run **Reforged-Launcher.exe**.
 3. Provide your own supported **US Turok: Rage Wars ROM** and **Turok 2: Seeds of Evil Remaster game.kpf**. Setup supports manual selection and checks common installation locations. Original files remain untouched.
-4. Choose **HD Remaster Pack (Recommended)** to download the optional world, weapon and pickup artwork. You can also select its ZIP manually or skip it.
+4. **HD Remaster Pack (Recommended)** is checked by default. Click **Continue** to download and install the optional world, weapon and pickup artwork, or uncheck it to skip. You can also select its ZIP manually.
 
 The core includes the interface artwork required by the modern menus. The optional pack contains all 36 level packs and the equipment pack. No ROM, KPF, extracted game audio, developer save files or private development history is included.
 
